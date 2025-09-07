@@ -1,12 +1,8 @@
 {
   "users": [
     {
-      "number": "6285591525899",
-      "password": "ndy17"
-    },
-    {
-      "number": "6285668739544",
-      "password": "tharr"
+      "password": "ndy17",
+      "token": "8289783621:AAHNG5o_bAlCDpU4PuUN54EifAi05yVEPEo"
     }
   ]
 }
