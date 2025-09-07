@@ -1,4 +1,8 @@
 {
-  "password": "ndy17",
-  "tokenbot": "8289783621:AAHNG5o_bAlCDpU4PuUN54EifAi05yVEPEo"
+  "users": [
+    {
+      "password": "3",
+      "tokenbot": "4"
+    }
+  ]
 }
